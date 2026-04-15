@@ -1,0 +1,42 @@
+{
+    "Ax": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhfJWrlOIX5CF86DuVOh7EIX0625YdNBQhfY1rlkEQVCF93/uVhVDEIX4yi5WdajQhfoUblVBHZCF+17uUNfHkIX8qS5T3scQhf3zbk2IENCF/z2uVGJ9UIYAh+5TuwqQhgHSbldM8hCGAxyuVeD4kIYEZu5YQ/aQhgWxLlSvfJCGBvtuT9M5UIYIRe5RPZHQhgmQLlbDFtCGCtpuVTTo0IYMJK5Vq2DQhg1vLlgHPtCGDrluWR9qkIYQA65aaLsQhhFN7lbmqZCGEpguVXlvg==",
+        "resolution": null
+    },
+    "H4": {
+        "center_dac": 38.01013811623246,
+        "center_signal": 0.005248390863475475,
+        "high_dac": 38.04208,
+        "high_resolving_power": 1569.1324338621152,
+        "high_signal": 0.0010349959184594569,
+        "low_dac": 37.978196232464924,
+        "low_resolving_power": 1519.547612634443,
+        "low_signal": 0.0010384873842160134,
+        "points": "QhfJWri7JCBCF86DuKV0UEIX0624gi+8QhfY1rijY5pCF93/uHKvdUIX4yg5E0ZZQhfoUTpICg5CF+17OwRJrEIX8qQ7ZAdLQhf3zTuTZSFCF/z2O6FYh0IYAh87qLCiQhgHSTuqKQpCGAxyO6ubKUIYEZs7q9TiQhgWxDun89VCGBvtO5fGK0IYIRc7cLQTQhgmQDsPRDFCGCtpOoAEH0IYMJI5sPb4Qhg1vDiq+RFCGDrluAqtQUIYQA64g/jzQhhFN7iaDbdCGEpguLMBwg==",
+        "resolution": 503.46225301268083
+    },
+    "L4": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhfJWjNOKI9CF86DAAAAAEIX060AAAAAQhfY1gAAAABCF93/MolwX0IX4ygAAAAAQhfoUTS8+oNCF+17Nd9Wm0IX8qQ2oZkgQhf3zTcdCOVCF/z2N03j10IYAh83WOVWQhgHSTdf4AtCGAxyN17NKkIYEZs3aDJZQhgWxDdGGvlCGBvtNzH5A0IYIRc225SIQhgmQDYB7DpCGCtpNWw5JEIYMJI0mp5rQhg1vDROKI9CGDrlM4lwX0IYQA4yiXBfQhhFNzMJcF9CGEpgAAAAAA==",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H4",
+    "reference_isotope": "Ar40"
+}
